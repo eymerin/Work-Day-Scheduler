@@ -12,6 +12,22 @@ textarea {
   padding: 10px;
 }
 
+.head {
+  position:fixed;
+}
+
+.date {
+  font-size: 36px;
+}
+
+.intro {
+  font-size: 22px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
 .description {
   white-space: pre-wrap;
 }
